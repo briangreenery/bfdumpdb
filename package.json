@@ -1,0 +1,24 @@
+{
+  "name": "bfdumpdb",
+  "version": "1.0.0",
+  "description": "Dump SQLite tables to JSON",
+  "repository": "git@github.com:briangreenery/bfdumpdb.git",
+  "main": "index.js",
+  "bin": {
+    "bfdumpdb": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SQLite",
+    "JSON"
+  ],
+  "author": "Brian Green",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.1.1",
+    "q": "^1.4.1",
+    "sqlite3": "^3.0.8"
+  }
+}
