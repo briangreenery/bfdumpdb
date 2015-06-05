@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var minimist = require('minimist'),
   Q = require('q'),
   sqlite3 = require('sqlite3');

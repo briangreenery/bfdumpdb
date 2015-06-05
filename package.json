@@ -1,6 +1,6 @@
 {
   "name": "bfdumpdb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dump SQLite tables to JSON",
   "repository": "git@github.com:briangreenery/bfdumpdb.git",
   "main": "index.js",
